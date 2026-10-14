@@ -6,4 +6,4 @@ scipy
 scikit-learn
 joblib
 streamlit
-openpyxl pip 
+openpyxl
